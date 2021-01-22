@@ -8,6 +8,8 @@ node index.js
 
 Repository URL: https://github.com/anniemcfarland7/Professional-README-Generator
 
+Walkthrough Video URL: https://drive.google.com/file/d/1yIrydtH3NwwvahzIj_-fVAxiR_gIRqFX/view?usp=sharing
+
 ## Walkthrough Video
 
 The following video demonstrates the application's functionality:
