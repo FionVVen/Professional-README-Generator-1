@@ -12,4 +12,8 @@ Repository URL: https://github.com/anniemcfarland7/Professional-README-Generator
 
 The following video demonstrates the application's functionality:
 
-![Walkthrough Video](./assets/video.)
+![Walkthrough Video](./assets/video.webm)
+
+The following image demonstrates the final appearance of README file:
+
+![Screenshot](./assets/screenshot.png)
