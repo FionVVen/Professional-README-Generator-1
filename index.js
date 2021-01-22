@@ -40,7 +40,7 @@ const promptUser = () => {
       type: 'list',
       name: 'license',
       message: 'Choose a license from the list provided. This lets other developers know what they can and cannot do with your project.',
-      choices: ['MIT', 'Apache2.0', 'GPL', 'BSD', 'NONE']
+      choices: ['MIT', 'Apache2.0', 'GPL', 'BSD']
 
     },
     {
